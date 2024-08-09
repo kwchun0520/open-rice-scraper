@@ -1,1 +1,1 @@
-# open-rice-scraper
+# openrice-scraper
